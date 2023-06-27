@@ -1,0 +1,37 @@
+h1 {
+    background: red;
+}
+
+.li1 {
+    background: #0a5320; 
+}
+
+#li1 {
+    background: #0a4553; 
+}
+
+.par-1, .par-2 {
+    background: blue;
+}
+
+.par-1 {
+    color: green;
+    font-size: 32pt;
+    margin-bottom: 50px;
+}
+
+.par-2 {
+    font-size: 24pt;
+    border: 10px solid black;
+    border-radius: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin: 0 25%;
+}
+
+.par-3 {
+    background: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32pt;
+}
